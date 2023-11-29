@@ -1,2 +1,0 @@
-# mySx.github.io
-myTree
